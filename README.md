@@ -8,3 +8,6 @@
  
 **2주차:시각화 관련 라이브러리**
  - ML_week_2_visualization.ipynb
+
+**3주차:탐색적 데이터분석(EDA)**
+ - ML_week_3_eda.ipynb
