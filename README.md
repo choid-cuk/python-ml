@@ -11,3 +11,6 @@
 
 **3주차:탐색적 데이터분석(EDA)**
  - ML_week_3_eda.ipynb
+
+**4주차:단순선형회귀**
+ - ML_week_4_linear_regression.ipynb
