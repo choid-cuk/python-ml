@@ -14,3 +14,6 @@
 
 **4주차:단순선형회귀**
  - ML_week_4_linear_regression.ipynb
+
+**5주차:다중선형회귀**
+ - ML_week_5_multiple_linear_regression.ipynb
