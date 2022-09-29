@@ -6,14 +6,17 @@
  - ML_week#1_pandas.ipynb
  - ML_week#1_numpy.ipynb
  
-**2주차:시각화 관련 라이브러리**
+**2주차: 시각화 관련 라이브러리**
  - ML_week_2_visualization.ipynb
 
-**3주차:탐색적 데이터분석(EDA)**
+**3주차: 탐색적 데이터분석(EDA)**
  - ML_week_3_eda.ipynb
 
-**4주차:단순선형회귀**
+**4주차: 단순선형회귀**
  - ML_week_4_linear_regression.ipynb
 
-**5주차:다중선형회귀**
+**5주차: 다중선형회귀**
  - ML_week_5_multiple_linear_regression.ipynb
+
+**6주차: 분류**
+ - ML_week_6_classification.ipynb
