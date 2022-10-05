@@ -20,3 +20,6 @@
 
 **6주차: 분류**
  - ML_week_6_classification.ipynb
+
+**7주차: 재표본추출**
+ - ML_week_7_resampling.ipynb
