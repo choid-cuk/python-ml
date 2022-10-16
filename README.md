@@ -23,3 +23,6 @@
 
 **7주차: 재표본추출**
  - ML_week_7_resampling.ipynb
+
+**9주차: 모델선택**
+ - ML_week_9_model_selection.ipynb
