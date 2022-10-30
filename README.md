@@ -26,3 +26,9 @@
 
 **9주차: 모델선택**
  - ML_week_9_model_selection.ipynb
+
+**10주차: 트리 기반 모델**
+ - ML_week_10_trees.ipynb
+ 
+**11주차: Support Vector Machine**
+ - ML_week_11_svm.ipynb
