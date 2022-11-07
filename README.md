@@ -32,3 +32,6 @@
  
 **11주차: Support Vector Machine**
  - ML_week_11_svm.ipynb
+
+**12주차: Neural Networks**
+ - ML_week_12_neural_networks.ipynb
