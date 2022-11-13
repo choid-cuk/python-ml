@@ -35,3 +35,6 @@
 
 **12주차: Neural Networks**
  - ML_week_12_neural_networks.ipynb
+ 
+**13주차: PCA와 Clustering**
+ - ML_week_13_pca_clustering.ipynb
