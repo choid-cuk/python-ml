@@ -38,3 +38,7 @@
  
 **13주차: PCA와 Clustering**
  - ML_week_13_pca_clustering.ipynb
+
+**14주차: Autoencoder와 PCR**
+ - ML_week_14_autoencoder.ipynb
+ - ML_week_14_pcr.ipynb
